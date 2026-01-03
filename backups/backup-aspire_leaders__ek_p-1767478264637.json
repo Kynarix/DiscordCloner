@@ -1,0 +1,1944 @@
+{
+  "meta": {
+    "name": "Aspire Leaders #EKİP",
+    "id": "1205267761689796618",
+    "icon": "9bbfe59d058ee4f0c5eb24491b0a8dda",
+    "date": "2026-01-03T22:11:04.637Z",
+    "version": "1.0.0"
+  },
+  "data": {
+    "guild": {
+      "id": "1205267761689796618",
+      "name": "Aspire Leaders #EKİP",
+      "icon": "9bbfe59d058ee4f0c5eb24491b0a8dda",
+      "description": ".gg/leaders",
+      "home_header": null,
+      "splash": null,
+      "discovery_splash": null,
+      "features": [
+        "GUILD_ONBOARDING",
+        "COMMUNITY",
+        "NEWS",
+        "ACTIVITY_FEED_DISABLED_BY_USER",
+        "GUILD_ONBOARDING_EVER_ENABLED",
+        "MEMBER_VERIFICATION_GATE_ENABLED",
+        "TIERLESS_BOOSTING_SYSTEM_MESSAGE",
+        "SOUNDBOARD",
+        "GUILD_ONBOARDING_HAS_PROMPTS",
+        "TIERLESS_BOOSTING"
+      ],
+      "banner": null,
+      "owner_id": "1135896615144673340",
+      "application_id": null,
+      "region": "south-korea",
+      "afk_channel_id": null,
+      "afk_timeout": 300,
+      "system_channel_id": null,
+      "system_channel_flags": 0,
+      "widget_enabled": true,
+      "widget_channel_id": "1213073713940004894",
+      "verification_level": 1,
+      "roles": [
+        {
+          "id": "1205267761689796618",
+          "name": "@everyone",
+          "description": null,
+          "permissions": "2222085186637377",
+          "position": 0,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1205299828666667019",
+          "name": "Aspire Tanrıları",
+          "description": null,
+          "permissions": "0",
+          "position": 13,
+          "color": 11156283,
+          "colors": {
+            "primary_color": 11156283,
+            "secondary_color": 13545905,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "0458791d437ff2105ed863d6939552ab",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1205299843539406878",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 9,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1205300158246428742",
+          "name": "🗝️",
+          "description": null,
+          "permissions": "8",
+          "position": 20,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1205479975768301588",
+          "name": "Aspire Booster",
+          "description": null,
+          "permissions": "250826194275905",
+          "position": 8,
+          "color": 16741370,
+          "colors": {
+            "primary_color": 16741370,
+            "secondary_color": 16753916,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "premium_subscriber": null
+          },
+          "flags": 0
+        },
+        {
+          "id": "1205483862415642634",
+          "name": "Yönetim Ekibi",
+          "description": null,
+          "permissions": "8",
+          "position": 15,
+          "color": 45823,
+          "colors": {
+            "primary_color": 45823,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "0769dee38dc34aec47e1f4dbb50517ad",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1208037985904492564",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 12,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1209644313097674752",
+          "name": "Üye",
+          "description": null,
+          "permissions": "0",
+          "position": 6,
+          "color": 10382335,
+          "colors": {
+            "primary_color": 10382335,
+            "secondary_color": 1251617,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1209647061012709376",
+          "name": "Özel Üyeler",
+          "description": null,
+          "permissions": "0",
+          "position": 10,
+          "color": 9467253,
+          "colors": {
+            "primary_color": 9467253,
+            "secondary_color": 16764614,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 1
+        },
+        {
+          "id": "1220168789551743077",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 4,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1244815479789326376",
+          "name": "Arkadaşlar",
+          "description": null,
+          "permissions": "0",
+          "position": 11,
+          "color": 3577974,
+          "colors": {
+            "primary_color": 3577974,
+            "secondary_color": 7471006,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "09d23b2009cd07b24294d683a45e8e51",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1246467744522571946",
+          "name": "⚽ OSM",
+          "description": null,
+          "permissions": "0",
+          "position": 5,
+          "color": 3066993,
+          "colors": {
+            "primary_color": 3066993,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1283410216972587008",
+          "name": "",
+          "description": null,
+          "permissions": "0",
+          "position": 17,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1336840863464296449",
+          "name": "🛡️ KYNARIX",
+          "description": null,
+          "permissions": "8",
+          "position": 21,
+          "color": 9109504,
+          "colors": {
+            "primary_color": 9109504,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1340399012628660225",
+          "name": "Kıdemli Liderler",
+          "description": null,
+          "permissions": "3072",
+          "position": 14,
+          "color": 8547266,
+          "colors": {
+            "primary_color": 8547266,
+            "secondary_color": 12036081,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1356431577231392861",
+          "name": "Aspire Leaders",
+          "description": null,
+          "permissions": "8",
+          "position": 18,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "1356431382108311652"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1376335136982831165",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 3,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1376335214175059978",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 19,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1376335246521536542",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 16,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1376335592757137458",
+          "name": "-------------------",
+          "description": null,
+          "permissions": "0",
+          "position": 7,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1379187116566904862",
+          "name": "Lara✨",
+          "description": null,
+          "permissions": "279176400136",
+          "position": 2,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "944016826751389717"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1400599161815961741",
+          "name": "access",
+          "description": null,
+          "permissions": "1024",
+          "position": 1,
+          "color": 3447003,
+          "colors": {
+            "primary_color": 3447003,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        }
+      ],
+      "default_message_notifications": 1,
+      "mfa_level": 0,
+      "explicit_content_filter": 2,
+      "max_presences": null,
+      "max_members": 25000000,
+      "max_stage_video_channel_users": 50,
+      "max_video_channel_users": 25,
+      "vanity_url_code": null,
+      "premium_tier": 0,
+      "premium_subscription_count": 1,
+      "preferred_locale": "tr",
+      "rules_channel_id": "1213073713940004894",
+      "safety_alerts_channel_id": null,
+      "public_updates_channel_id": "1213073713940004895",
+      "hub_type": null,
+      "premium_progress_bar_enabled": true,
+      "latest_onboarding_question_id": "1245803287920381988",
+      "nsfw": false,
+      "nsfw_level": 0,
+      "owner_configured_content_level": 0,
+      "emojis": [
+        {
+          "id": "1205492301108084746",
+          "name": "alev",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": true,
+          "available": true
+        },
+        {
+          "id": "1220164957044478023",
+          "name": "oliwjer_netflix",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1220164983237775453",
+          "name": "oliwjer_spotify",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1220165004561748049",
+          "name": "oliwjer_nitro",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1220165037453348874",
+          "name": "oliwjer_announcement",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": true,
+          "available": true
+        },
+        {
+          "id": "1220165061017075732",
+          "name": "oliwjer_hediye",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": true,
+          "available": true
+        },
+        {
+          "id": "1220165081959108679",
+          "name": "oliwjer_danger",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1365872496611430451",
+          "name": "daltonlar",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        }
+      ],
+      "stickers": [],
+      "incidents_data": null,
+      "inventory_settings": null,
+      "embed_enabled": true,
+      "embed_channel_id": "1213073713940004894"
+    },
+    "channels": [
+      {
+        "id": "1205299865089998858",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔊 | Socialize",
+        "parent_id": null,
+        "position": 4,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "0"
+          }
+        ]
+      },
+      {
+        "id": "1213073713940004894",
+        "type": 0,
+        "last_message_id": "1380257536640421908",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📜┃kurallar",
+        "parent_id": "1220165800032473219",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 0,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1213073713940004895",
+        "type": 0,
+        "last_message_id": "1250381725373304854",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "moderator-only",
+        "parent_id": "1220171754224226304",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 2,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1220165800032473219",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📢・Duyurular",
+        "parent_id": null,
+        "position": 0,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          }
+        ]
+      },
+      {
+        "id": "1220170899253235812",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🤩・Sohbet ve Eğlence",
+        "parent_id": null,
+        "position": 2,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1220171395703771146",
+        "type": 0,
+        "last_message_id": "1456723971088056373",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🎥┃youtube",
+        "parent_id": "1220170899253235812",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 7,
+        "permission_overwrites": [],
+        "nsfw": false
+      },
+      {
+        "id": "1220171597646925834",
+        "type": 0,
+        "last_message_id": "1450146928380874804",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🤖┃komutlar",
+        "parent_id": "1220170899253235812",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 6,
+        "permission_overwrites": [],
+        "nsfw": false
+      },
+      {
+        "id": "1220171754224226304",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🤫・Private Area",
+        "parent_id": null,
+        "position": 1,
+        "permission_overwrites": [
+          {
+            "id": "1340399012628660225",
+            "type": 0,
+            "allow": "0",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1220171772674969702",
+        "type": 0,
+        "last_message_id": "1427724790956949514",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔒┃yetkili-sohbet",
+        "parent_id": "1220171754224226304",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 3,
+        "permission_overwrites": [
+          {
+            "id": "1205299828666667019",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1209647061012709376",
+            "type": 0,
+            "allow": "0",
+            "deny": "0"
+          },
+          {
+            "id": "1205483862415642634",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1220175083558142012",
+        "type": 0,
+        "last_message_id": "1450146944893849660",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🌆┃gif-photo",
+        "parent_id": "1220170899253235812",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 8,
+        "permission_overwrites": [],
+        "nsfw": false
+      },
+      {
+        "id": "1233227850673291396",
+        "type": 0,
+        "last_message_id": "1256758802750116001",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "〔⚽〕oran-tahmin",
+        "parent_id": "1376333686349234268",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 18,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1239292203214438531",
+        "type": 2,
+        "last_message_id": "1386154934793404436",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔊┃Voice #1",
+        "parent_id": "1205299865089998858",
+        "rate_limit_per_user": 0,
+        "bitrate": 64000,
+        "user_limit": 99,
+        "rtc_region": null,
+        "position": 1,
+        "permission_overwrites": [
+          {
+            "id": "1205299828666667019",
+            "type": 0,
+            "allow": "1049600",
+            "deny": "0"
+          },
+          {
+            "id": "1340399012628660225",
+            "type": 0,
+            "allow": "1049600",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1246467545800769598",
+        "type": 0,
+        "last_message_id": "1373028157665312770",
+        "flags": 0,
+        "last_pin_timestamp": "2024-06-02T08:11:17+00:00",
+        "guild_id": "1205267761689796618",
+        "name": "⚽┃osm-strateji",
+        "parent_id": "1283427226288652308",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 12,
+        "permission_overwrites": [
+          {
+            "id": "1246467744522571946",
+            "type": 0,
+            "allow": "117824",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1246915494284496926",
+        "type": 0,
+        "last_message_id": "1246918046426206213",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "⚽┃osm-takımlar",
+        "parent_id": "1283427226288652308",
+        "rate_limit_per_user": 3600,
+        "topic": null,
+        "position": 11,
+        "permission_overwrites": [
+          {
+            "id": "1246467744522571946",
+            "type": 0,
+            "allow": "117824",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1254194570170732585",
+        "type": 2,
+        "last_message_id": "1383616036036935801",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔊┃Voice #2",
+        "parent_id": "1205299865089998858",
+        "rate_limit_per_user": 0,
+        "bitrate": 64000,
+        "user_limit": 99,
+        "rtc_region": null,
+        "position": 2,
+        "permission_overwrites": [
+          {
+            "id": "1023277694353416232",
+            "type": 1,
+            "allow": "0",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1283426985745322107",
+        "type": 2,
+        "last_message_id": null,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔒┃Yetkili Özel Ses",
+        "parent_id": "1220171754224226304",
+        "rate_limit_per_user": 0,
+        "bitrate": 64000,
+        "user_limit": 0,
+        "rtc_region": null,
+        "position": 0,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1283427226288652308",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🎮・Oyun Sohbetleri",
+        "parent_id": null,
+        "position": 3,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1340393205723828285",
+        "type": 0,
+        "last_message_id": "1377428967975424162",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔒┃yetkili-sohbet",
+        "parent_id": "1220171754224226304",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 4,
+        "permission_overwrites": [
+          {
+            "id": "1205299828666667019",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1209647061012709376",
+            "type": 0,
+            "allow": "0",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1355545403499479091",
+        "type": 0,
+        "last_message_id": "1379189001788985425",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "💬┃genel-sohbet",
+        "parent_id": "1376333686349234268",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 19,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1356453153108656219",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "LOG KANALLARI",
+        "parent_id": null,
+        "position": 10,
+        "permission_overwrites": [
+          {
+            "id": "1356431382108311652",
+            "type": 1,
+            "allow": "3072",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1356453155415789709",
+        "type": 0,
+        "last_message_id": "1398703004450033666",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "🔨-mod-log",
+        "parent_id": "1356453153108656219",
+        "rate_limit_per_user": 0,
+        "topic": "Moderasyon işlemlerinin kaydedildiği kanal",
+        "position": 13,
+        "permission_overwrites": [
+          {
+            "id": "1356431382108311652",
+            "type": 1,
+            "allow": "19456",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1356453158003413105",
+        "type": 0,
+        "last_message_id": "1406969232545284176",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "👥│üye-log",
+        "parent_id": "1356453153108656219",
+        "rate_limit_per_user": 0,
+        "topic": "Sunucuya giriş çıkış hareketlerinin kaydedildiği kanal",
+        "position": 14,
+        "permission_overwrites": [
+          {
+            "id": "1356431382108311652",
+            "type": 1,
+            "allow": "19456",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1356453161744728305",
+        "type": 0,
+        "last_message_id": "1413580428207722586",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📸-avatar-log",
+        "parent_id": "1356453153108656219",
+        "rate_limit_per_user": 0,
+        "topic": "Kullanıcıların avatar değişikliklerinin kaydedildiği kanal",
+        "position": 15,
+        "permission_overwrites": [
+          {
+            "id": "1356431382108311652",
+            "type": 1,
+            "allow": "19456",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1356453166203277343",
+        "type": 0,
+        "last_message_id": "1412556474537869452",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📝-kullanıcı-log",
+        "parent_id": "1356453153108656219",
+        "rate_limit_per_user": 0,
+        "topic": "Kullanıcı bilgilerindeki değişikliklerin kaydedildiği kanal",
+        "position": 16,
+        "permission_overwrites": [
+          {
+            "id": "1356431382108311652",
+            "type": 1,
+            "allow": "19456",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1368264889436733492",
+        "type": 5,
+        "last_message_id": "1450183705137119322",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📣┃duyurular",
+        "parent_id": "1220165800032473219",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 1,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1368338890318151831",
+        "type": 0,
+        "last_message_id": "1371935332404170793",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "💬┃bütün-ekip-anadolu-loading",
+        "parent_id": "1376333686349234268",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 20,
+        "permission_overwrites": [
+          {
+            "id": "1205483862415642634",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1376333686349234268",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "Old Chat",
+        "parent_id": null,
+        "position": 11,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ]
+      },
+      {
+        "id": "1376336152520298607",
+        "type": 0,
+        "last_message_id": "1401688999575293952",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "💬┃sohbet",
+        "parent_id": "1376333686349234268",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 17,
+        "permission_overwrites": [
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1395527041998262415",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "MTA",
+        "parent_id": null,
+        "position": 12,
+        "permission_overwrites": [
+          {
+            "id": "1205483862415642634",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1340399012628660225",
+            "type": 0,
+            "allow": "1049600",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1400571117709562016",
+        "type": 0,
+        "last_message_id": "1402077133131743303",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "mta-version",
+        "parent_id": "1395527041998262415",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 21,
+        "permission_overwrites": [
+          {
+            "id": "1340399012628660225",
+            "type": 0,
+            "allow": "1049600",
+            "deny": "0"
+          },
+          {
+            "id": "1205483862415642634",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1205267761689796618",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1402078157539901500",
+        "type": 0,
+        "last_message_id": "1456724011143659783",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "💬┃sohbet",
+        "parent_id": "1220170899253235812",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 5,
+        "permission_overwrites": [],
+        "nsfw": false
+      },
+      {
+        "id": "1403876640580178062",
+        "type": 0,
+        "last_message_id": "1450146977517011045",
+        "flags": 0,
+        "guild_id": "1205267761689796618",
+        "name": "📰┃reklam",
+        "parent_id": "1220170899253235812",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "default_auto_archive_duration": 1440,
+        "position": 9,
+        "permission_overwrites": [],
+        "nsfw": false
+      }
+    ],
+    "roles": [
+      {
+        "id": "1205267761689796618",
+        "name": "@everyone",
+        "description": null,
+        "permissions": "2222085186637377",
+        "position": 0,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1205299828666667019",
+        "name": "Aspire Tanrıları",
+        "description": null,
+        "permissions": "0",
+        "position": 13,
+        "color": 11156283,
+        "colors": {
+          "primary_color": 11156283,
+          "secondary_color": 13545905,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "0458791d437ff2105ed863d6939552ab",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1205299843539406878",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 9,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1205300158246428742",
+        "name": "🗝️",
+        "description": null,
+        "permissions": "8",
+        "position": 20,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1205479975768301588",
+        "name": "Aspire Booster",
+        "description": null,
+        "permissions": "250826194275905",
+        "position": 8,
+        "color": 16741370,
+        "colors": {
+          "primary_color": 16741370,
+          "secondary_color": 16753916,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "premium_subscriber": null
+        },
+        "flags": 0
+      },
+      {
+        "id": "1205483862415642634",
+        "name": "Yönetim Ekibi",
+        "description": null,
+        "permissions": "8",
+        "position": 15,
+        "color": 45823,
+        "colors": {
+          "primary_color": 45823,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "0769dee38dc34aec47e1f4dbb50517ad",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1208037985904492564",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 12,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1209644313097674752",
+        "name": "Üye",
+        "description": null,
+        "permissions": "0",
+        "position": 6,
+        "color": 10382335,
+        "colors": {
+          "primary_color": 10382335,
+          "secondary_color": 1251617,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1209647061012709376",
+        "name": "Özel Üyeler",
+        "description": null,
+        "permissions": "0",
+        "position": 10,
+        "color": 9467253,
+        "colors": {
+          "primary_color": 9467253,
+          "secondary_color": 16764614,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 1
+      },
+      {
+        "id": "1220168789551743077",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 4,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1244815479789326376",
+        "name": "Arkadaşlar",
+        "description": null,
+        "permissions": "0",
+        "position": 11,
+        "color": 3577974,
+        "colors": {
+          "primary_color": 3577974,
+          "secondary_color": 7471006,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "09d23b2009cd07b24294d683a45e8e51",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1246467744522571946",
+        "name": "⚽ OSM",
+        "description": null,
+        "permissions": "0",
+        "position": 5,
+        "color": 3066993,
+        "colors": {
+          "primary_color": 3066993,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1283410216972587008",
+        "name": "",
+        "description": null,
+        "permissions": "0",
+        "position": 17,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1336840863464296449",
+        "name": "🛡️ KYNARIX",
+        "description": null,
+        "permissions": "8",
+        "position": 21,
+        "color": 9109504,
+        "colors": {
+          "primary_color": 9109504,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1340399012628660225",
+        "name": "Kıdemli Liderler",
+        "description": null,
+        "permissions": "3072",
+        "position": 14,
+        "color": 8547266,
+        "colors": {
+          "primary_color": 8547266,
+          "secondary_color": 12036081,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1356431577231392861",
+        "name": "Aspire Leaders",
+        "description": null,
+        "permissions": "8",
+        "position": 18,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "1356431382108311652"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1376335136982831165",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 3,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1376335214175059978",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 19,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1376335246521536542",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 16,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1376335592757137458",
+        "name": "-------------------",
+        "description": null,
+        "permissions": "0",
+        "position": 7,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1379187116566904862",
+        "name": "Lara✨",
+        "description": null,
+        "permissions": "279176400136",
+        "position": 2,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "944016826751389717"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1400599161815961741",
+        "name": "access",
+        "description": null,
+        "permissions": "1024",
+        "position": 1,
+        "color": 3447003,
+        "colors": {
+          "primary_color": 3447003,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      }
+    ],
+    "emojis": [
+      {
+        "id": "1205492301108084746",
+        "name": "alev",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": true,
+        "available": true
+      },
+      {
+        "id": "1220164957044478023",
+        "name": "oliwjer_netflix",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1220164983237775453",
+        "name": "oliwjer_spotify",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1220165004561748049",
+        "name": "oliwjer_nitro",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1220165037453348874",
+        "name": "oliwjer_announcement",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": true,
+        "available": true
+      },
+      {
+        "id": "1220165061017075732",
+        "name": "oliwjer_hediye",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": true,
+        "available": true
+      },
+      {
+        "id": "1220165081959108679",
+        "name": "oliwjer_danger",
+        "user": {
+          "id": "1135896615144673340",
+          "username": "44.twix",
+          "avatar": "aecabdba2213888cb5b44bced38844c6",
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twix",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1365872496611430451",
+        "name": "daltonlar",
+        "user": {
+          "id": "1205473233680343040",
+          "username": "kynarix",
+          "avatar": "14b36ef9ec566a663c69abac4b4922e5",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Twixx",
+          "avatar_decoration_data": null,
+          "collectibles": {
+            "nameplate": {
+              "sku_id": "1349849614257225760",
+              "asset": "nameplates/nameplates/vengeance/",
+              "label": "COLLECTIBLES_NAMEPLATES_VENGEANCE_A11Y",
+              "palette": "violet"
+            }
+          },
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      }
+    ]
+  }
+}
