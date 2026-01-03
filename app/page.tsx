@@ -5,7 +5,7 @@ import { useRouter } from "next/navigation"
 import { motion } from "framer-motion"
 import { Input } from "@/components/ui/input"
 import { Button } from "@/components/ui/button"
-import { Disc, Lock, ArrowRight, Loader2 } from "lucide-react"
+import { Crown, Lock, ArrowRight, Loader2 } from "lucide-react"
 
 export default function LoginPage() {
   const [token, setToken] = useState("")
@@ -43,8 +43,8 @@ export default function LoginPage() {
         className="w-full max-w-md p-8 space-y-6 bg-white dark:bg-[#111] rounded-2xl shadow-xl border border-gray-100 dark:border-white/5"
       >
         <div className="flex flex-col items-center space-y-2 text-center">
-          <div className="p-3 rounded-full bg-indigo-50 dark:bg-indigo-500/10 text-indigo-600 dark:text-indigo-400">
-            <Disc size={32} />
+          <div className="p-3 rounded-full bg-red-50 dark:bg-red-500/10 text-red-600 dark:text-red-400">
+            <Crown size={32} />
           </div>
           <h1 className="text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Twixx Cloner</h1>
           <p className="text-sm text-gray-500 dark:text-gray-400">
@@ -60,7 +60,7 @@ export default function LoginPage() {
               <Input
                 placeholder="Discord Token"
                 type="password"
-                className="pl-10 h-12 bg-gray-50 dark:bg-black/20 border-gray-200 dark:border-white/10 focus:bg-white dark:focus:bg-black/40 text-gray-900 dark:text-white transition-all"
+                className="pl-10 h-12 bg-gray-50 dark:bg-black/20 border-gray-200 dark:border-white/10 focus:bg-white dark:focus:bg-black/40 text-gray-900 dark:text-white transition-all focus:ring-red-500/20 focus:border-red-500/50"
                 value={token}
                 onChange={(e) => setToken(e.target.value)}
               />
@@ -68,7 +68,7 @@ export default function LoginPage() {
           </div>
           <Button
             type="submit"
-            className="w-full h-12 bg-indigo-600 hover:bg-indigo-700 dark:bg-indigo-600 dark:hover:bg-indigo-500 text-white font-medium transition-all"
+            className="w-full h-12 bg-gradient-to-r from-red-600 to-orange-600 hover:from-red-700 hover:to-orange-700 text-white font-medium transition-all shadow-lg shadow-red-500/20"
             disabled={loading || !token}
           >
             {loading ? (
