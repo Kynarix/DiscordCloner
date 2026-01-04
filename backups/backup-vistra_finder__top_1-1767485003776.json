@@ -1,0 +1,4809 @@
+{
+  "meta": {
+    "name": "Vistra Finder #TOP 1",
+    "id": "1420134374283939882",
+    "icon": "5dd34f11db15b2f0ce5144bc652b5463",
+    "date": "2026-01-04T00:03:23.776Z",
+    "version": "1.0.0"
+  },
+  "data": {
+    "guild": {
+      "id": "1420134374283939882",
+      "name": "Vistra Finder #TOP 1",
+      "icon": "5dd34f11db15b2f0ce5144bc652b5463",
+      "description": "Sende kaliteli l0glar istiyorsan discord.gg/logsearch discord adresine gelerek kaliteli ve ücretsiz l0glara erişebilirsin.",
+      "home_header": null,
+      "splash": "e73ad77d9799beadd535a8dece313dd8",
+      "discovery_splash": null,
+      "features": [
+        "AUDIO_BITRATE_256_KBPS",
+        "AUDIO_BITRATE_384_KBPS",
+        "AUDIO_BITRATE_128_KBPS",
+        "VIDEO_BITRATE_ENHANCED",
+        "BANNER",
+        "AUTO_MODERATION",
+        "VIDEO_QUALITY_720_60FPS",
+        "STAGE_CHANNEL_VIEWERS_50",
+        "TIERLESS_BOOSTING",
+        "NEWS",
+        "ANIMATED_ICON",
+        "VANITY_URL",
+        "MAX_FILE_SIZE_50_MB",
+        "INVITE_SPLASH",
+        "GUILD_TAGS",
+        "ANIMATED_BANNER",
+        "COMMUNITY",
+        "AGE_VERIFICATION_LARGE_GUILD",
+        "STAGE_CHANNEL_VIEWERS_300",
+        "VIDEO_QUALITY_1080_60FPS",
+        "STAGE_CHANNEL_VIEWERS_150",
+        "MAX_FILE_SIZE_100_MB",
+        "ROLE_ICONS"
+      ],
+      "banner": "56119dbc9adf6eb30540e167599abbb6",
+      "owner_id": "987641684743573515",
+      "application_id": null,
+      "region": "us-east",
+      "afk_channel_id": null,
+      "afk_timeout": 300,
+      "system_channel_id": "1423344796788981951",
+      "system_channel_flags": 0,
+      "widget_enabled": false,
+      "widget_channel_id": null,
+      "verification_level": 2,
+      "roles": [
+        {
+          "id": "1420134374283939882",
+          "name": "@everyone",
+          "description": null,
+          "permissions": "532857369251393",
+          "position": 0,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344711061733504",
+          "name": "*",
+          "description": null,
+          "permissions": "8",
+          "position": 27,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344714597535909",
+          "name": "Finder",
+          "description": null,
+          "permissions": "268435464",
+          "position": 22,
+          "color": 7640178,
+          "colors": {
+            "primary_color": 7640178,
+            "secondary_color": 11788729,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344717696991242",
+          "name": "Helper",
+          "description": null,
+          "permissions": "8",
+          "position": 21,
+          "color": 10382335,
+          "colors": {
+            "primary_color": 10382335,
+            "secondary_color": 10469887,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344721136324649",
+          "name": "Administrator",
+          "description": null,
+          "permissions": "1032",
+          "position": 16,
+          "color": 11127295,
+          "colors": {
+            "primary_color": 11127295,
+            "secondary_color": 16759788,
+            "tertiary_color": 16761760
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": true,
+          "icon": "640c650b6018f473ab9042902692872c",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344724269600808",
+          "name": "BOT",
+          "description": null,
+          "permissions": "0",
+          "position": 19,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344727604068544",
+          "name": "Lifetime Platinum",
+          "description": null,
+          "permissions": "0",
+          "position": 13,
+          "color": 10192486,
+          "colors": {
+            "primary_color": 10192486,
+            "secondary_color": 16769460,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "ee4466e0bc42f11abfb26118bfd1ede8",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344730816643147",
+          "name": "Platinum",
+          "description": null,
+          "permissions": "0",
+          "position": 12,
+          "color": 5723990,
+          "colors": {
+            "primary_color": 5723990,
+            "secondary_color": 15066338,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "d88ff33b78fd583904ec28f27410b25b",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344734172221452",
+          "name": "Diamond",
+          "description": null,
+          "permissions": "0",
+          "position": 11,
+          "color": 7202800,
+          "colors": {
+            "primary_color": 7202800,
+            "secondary_color": 61695,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "b4cf1c829138ca0c1a48ba46c899a20b",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423344737502367876",
+          "name": "Default",
+          "description": null,
+          "permissions": "0",
+          "position": 8,
+          "color": 8886702,
+          "colors": {
+            "primary_color": 8886702,
+            "secondary_color": 15857663,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "38021b78f7b3622ea1881825e7a1b8ae",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1423345736396963943",
+          "name": "ErensiBOT",
+          "description": null,
+          "permissions": "2146823679",
+          "position": 18,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "689766089567109158"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423747801078042666",
+          "name": "Vistra Finder",
+          "description": null,
+          "permissions": "0",
+          "position": 24,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "1423742691388428319"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423749356028432448",
+          "name": "Vistra Helper",
+          "description": null,
+          "permissions": "8",
+          "position": 7,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "1423748346450939934"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423766657398083655",
+          "name": "Server Booster",
+          "description": null,
+          "permissions": "2248473465835073",
+          "position": 10,
+          "color": 16023551,
+          "colors": {
+            "primary_color": 16023551,
+            "secondary_color": 11816191,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": "8b1286fc02c6cf99ecf909e126d4e1c4",
+          "unicode_emoji": null,
+          "tags": {
+            "premium_subscriber": null
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423926858768191589",
+          "name": "Marpel",
+          "description": null,
+          "permissions": "8",
+          "position": 17,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "490039330388180992"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423927316740046928",
+          "name": "InviteLogger",
+          "description": null,
+          "permissions": "268462304",
+          "position": 6,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "499595256270946326"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1423927443739119699",
+          "name": "GiveawayBot",
+          "description": null,
+          "permissions": "8",
+          "position": 5,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "294882584201003009"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1425900560963604653",
+          "name": "Ticket Sorumlusu",
+          "description": null,
+          "permissions": "8",
+          "position": 14,
+          "color": 16777215,
+          "colors": {
+            "primary_color": 16777215,
+            "secondary_color": 6684825,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "91e97622a8511cbe63f1fe251a50ea8e",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1429115123762462886",
+          "name": "Vistra Verify",
+          "description": null,
+          "permissions": "8",
+          "position": 4,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "1429114771751305318"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1429118816079577128",
+          "name": "Vistra Verify",
+          "description": null,
+          "permissions": "0",
+          "position": 23,
+          "color": 10382335,
+          "colors": {
+            "primary_color": 10382335,
+            "secondary_color": 10469887,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1436411247271743498",
+          "name": "Susturulmuş",
+          "description": null,
+          "permissions": "0",
+          "position": 3,
+          "color": 8487814,
+          "colors": {
+            "primary_color": 8487814,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1436748204069617687",
+          "name": "Security",
+          "description": null,
+          "permissions": "8",
+          "position": 26,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "651095740390834176"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1438454615380070551",
+          "name": "Developer",
+          "description": null,
+          "permissions": "0",
+          "position": 15,
+          "color": 11156283,
+          "colors": {
+            "primary_color": 11156283,
+            "secondary_color": 16730184,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": "🔨",
+          "flags": 0
+        },
+        {
+          "id": "1447660495564832870",
+          "name": "twix perm",
+          "description": null,
+          "permissions": "8",
+          "position": 2,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1447943898071568425",
+          "name": ".gg/logsearch",
+          "description": null,
+          "permissions": "0",
+          "position": 9,
+          "color": 12822278,
+          "colors": {
+            "primary_color": 12822278,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": true,
+          "managed": false,
+          "mentionable": false,
+          "icon": "2c409c927ae1ad6550c2a2e0de067145",
+          "unicode_emoji": null,
+          "flags": 0
+        },
+        {
+          "id": "1449447802806599783",
+          "name": "Vistra Utils",
+          "description": null,
+          "permissions": "8",
+          "position": 1,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "1446804168252592330"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1453277723723042828",
+          "name": "Statbot",
+          "description": null,
+          "permissions": "275147508760",
+          "position": 20,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": true,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "tags": {
+            "bot_id": "491769129318088714"
+          },
+          "flags": 0
+        },
+        {
+          "id": "1454434858540732467",
+          "name": "yeni rol",
+          "description": null,
+          "permissions": "16",
+          "position": 25,
+          "color": 0,
+          "colors": {
+            "primary_color": 0,
+            "secondary_color": null,
+            "tertiary_color": null
+          },
+          "hoist": false,
+          "managed": false,
+          "mentionable": false,
+          "icon": null,
+          "unicode_emoji": null,
+          "flags": 0
+        }
+      ],
+      "default_message_notifications": 1,
+      "mfa_level": 0,
+      "explicit_content_filter": 2,
+      "max_presences": null,
+      "max_members": 25000000,
+      "max_stage_video_channel_users": 450,
+      "max_video_channel_users": 25,
+      "vanity_url_code": "logsearch",
+      "premium_tier": 3,
+      "premium_subscription_count": 19,
+      "preferred_locale": "tr",
+      "rules_channel_id": "1454596531004117126",
+      "safety_alerts_channel_id": "1423344796788981951",
+      "public_updates_channel_id": "1423344796788981951",
+      "hub_type": null,
+      "premium_progress_bar_enabled": true,
+      "latest_onboarding_question_id": "1420134374283939882",
+      "nsfw": false,
+      "nsfw_level": 0,
+      "owner_configured_content_level": 0,
+      "emojis": [
+        {
+          "id": "1445482895849554061",
+          "name": "emoji_1",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447642613703512094",
+          "name": "staff",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447947141434835046",
+          "name": "modernactivedev",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952055103656087",
+          "name": "modernbetabadge",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952130957774940",
+          "name": "neonredleave",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952168157188177",
+          "name": "modernmoderator",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952208623566969",
+          "name": "modernserverguide",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952245483110562",
+          "name": "modernrules",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952273992061142",
+          "name": "modernbughunter",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952300718030848",
+          "name": "neonredserverinsights",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952330354982923",
+          "name": "neonredlink",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952354279424193",
+          "name": "modernstaff",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952386067922984",
+          "name": "modernearlydev",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952409757483171",
+          "name": "neonredserverinsights",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952479965806694",
+          "name": "neonredjoin",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952536400036034",
+          "name": "neonredpadlock",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952602787610757",
+          "name": "neonredannouncement",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952633263558692",
+          "name": "modernverify",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952664838148209",
+          "name": "neonredstaff",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952697444663398",
+          "name": "modernraid",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952729250070730",
+          "name": "modernmodmail",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952891557052436",
+          "name": "neonredslashcommands",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952925451354214",
+          "name": "modernrefresh",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952952861003787",
+          "name": "bakiye",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447952991645728799",
+          "name": "tarih",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953017914658987",
+          "name": "dm",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953042275172453",
+          "name": "dm2",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953078937714850",
+          "name": "folder",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953115016986634",
+          "name": "loading",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": true,
+          "available": true
+        },
+        {
+          "id": "1447953148915482715",
+          "name": "neonid",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953195098968196",
+          "name": "neonmembers",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953219757150350",
+          "name": "neonred",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953253391142943",
+          "name": "neonsuccess",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953587048157226",
+          "name": "neonwarning",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953617125507072",
+          "name": "pause",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953641943076915",
+          "name": "play",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953669550247966",
+          "name": "purplenumber0",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953826073284732",
+          "name": "purplenumber5",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953964095115374",
+          "name": "redrocket",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447953991660081183",
+          "name": "redtime",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447954014628085893",
+          "name": "search",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447954037554024603",
+          "name": "statics",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447954059288903680",
+          "name": "stop",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447954081963315250",
+          "name": "tierfree",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447970964968050801",
+          "name": "tierspecial",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447970994252812341",
+          "name": "tiervip",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1447971019657580684",
+          "name": "txt",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454263015624020099",
+          "name": "fingerprint",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602450014179358",
+          "name": "vistra_loading",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602451457146942",
+          "name": "vistra_lock",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602453843705947",
+          "name": "vistra_platinum",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602456020422727",
+          "name": "vistra_rocket",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602457945608405",
+          "name": "vistra_search",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602459371540561",
+          "name": "vistra_statics",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602461351514193",
+          "name": "vistra_success",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602462806937863",
+          "name": "vistra_user",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602465067536456",
+          "name": "vistra_warning",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602467730919424",
+          "name": "vistra_wrench",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602469580603573",
+          "name": "vistra_blacklist",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602471594000434",
+          "name": "vistra_clock",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602475800891655",
+          "name": "vistra_date",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602478573191361",
+          "name": "vistra_diamond",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602486848553051",
+          "name": "vistra_file",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602489524388035",
+          "name": "vistra_fingerprint",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602490979811572",
+          "name": "vistra_folder",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602493060452443",
+          "name": "vistra_gift",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602497388707982",
+          "name": "vistra_invite",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602589302816861",
+          "name": "vistra_close",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        },
+        {
+          "id": "1454602591123279953",
+          "name": "vistra_gold",
+          "roles": [],
+          "require_colons": true,
+          "managed": false,
+          "animated": false,
+          "available": true
+        }
+      ],
+      "stickers": [],
+      "incidents_data": {
+        "invites_disabled_until": null,
+        "dms_disabled_until": null
+      },
+      "inventory_settings": null,
+      "embed_enabled": false,
+      "embed_channel_id": null
+    },
+    "channels": [
+      {
+        "id": "1423344742313496636",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA SYSTEM ───╮",
+        "parent_id": null,
+        "position": 1,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1423344748529188944",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA COMMUNITY ───╮",
+        "parent_id": null,
+        "position": 2,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1423344751804944405",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA INFORMATION ───╮",
+        "parent_id": null,
+        "position": 0,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1423344755160649779",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── SUPPORT & TICKETS ───╮",
+        "parent_id": null,
+        "position": 3,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1423344758369292400",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA & PRIVATE ───╮",
+        "parent_id": null,
+        "position": 8,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          },
+          {
+            "id": "1423344727604068544",
+            "type": 0,
+            "allow": "1024",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1423344780095524955",
+        "type": 5,
+        "last_message_id": "1457024505053708450",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "📢・announcement",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 3,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "1024",
+            "deny": "1126277864097856"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344783610478674",
+        "type": 0,
+        "last_message_id": "1455647776967884820",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "💎・price-list",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 5,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "1024",
+            "deny": "1126277864097856"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344796788981951",
+        "type": 0,
+        "last_message_id": "1457162162274308177",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "sunuculog",
+        "parent_id": null,
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 0,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877910016"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          },
+          {
+            "id": "1206905248979882026",
+            "type": 1,
+            "allow": "1024",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344804124954644",
+        "type": 0,
+        "last_message_id": "1456745924586901668",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🧾・log-ticket",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 15,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877910016"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344807958544434",
+        "type": 0,
+        "last_message_id": "1457083944435450031",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🎫・open-ticket",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 16,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "1024",
+            "deny": "377957255232"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344812622352475",
+        "type": 0,
+        "last_message_id": "1456872563228676150",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "📖・feedbacks",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 120,
+        "topic": null,
+        "position": 7,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "35840",
+            "deny": "1126277864095808"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "2048",
+            "deny": "274877906944"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344816040706149",
+        "type": 2,
+        "last_message_id": null,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "VISTRA",
+        "parent_id": null,
+        "rate_limit_per_user": 0,
+        "bitrate": 64000,
+        "user_limit": 3,
+        "rtc_region": null,
+        "position": 0,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1049600"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344819731824772",
+        "type": 0,
+        "last_message_id": "1455988791943757885",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🎉・giveaways",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 8,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "1024",
+            "deny": "377957255232"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423344823070363840",
+        "type": 0,
+        "last_message_id": "1456014971967111342",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🗝️・contents",
+        "parent_id": "1423344758369292400",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 25,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          },
+          {
+            "id": "1423344727604068544",
+            "type": 0,
+            "allow": "1024",
+            "deny": "1689227817568256"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1423377551581122620",
+        "type": 0,
+        "last_message_id": "1454189396705153238",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🔒・installation",
+        "parent_id": "1423344758369292400",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 24,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "0",
+            "deny": "3072"
+          },
+          {
+            "id": "1423344727604068544",
+            "type": 0,
+            "allow": "1024",
+            "deny": "1689227817568256"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877910016"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1436348772522393631",
+        "type": 0,
+        "last_message_id": "1447973773356699679",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🌀・usage",
+        "parent_id": "1454597853526753363",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 21,
+        "permission_overwrites": [
+          {
+            "id": "1423344730816643147",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          },
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          },
+          {
+            "id": "1423344727604068544",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          },
+          {
+            "id": "1423344734172221452",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1443644902498897940",
+        "type": 0,
+        "last_message_id": "1456689863079366666",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "admin",
+        "parent_id": null,
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 1,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877910016"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          },
+          {
+            "id": "1206905248979882026",
+            "type": 1,
+            "allow": "1024",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447642900690108549",
+        "type": 0,
+        "last_message_id": "1457081284663967808",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🤖・bot-command",
+        "parent_id": "1423344748529188944",
+        "rate_limit_per_user": 30,
+        "topic": null,
+        "position": 13,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "3073",
+            "deny": "3941028436582416"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447721486944305203",
+        "type": 0,
+        "last_message_id": "1455932606016262373",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "test",
+        "parent_id": null,
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 2,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723370341859328",
+        "type": 0,
+        "last_message_id": "1457023072182862018",
+        "flags": 0,
+        "last_pin_timestamp": "2025-12-10T13:46:05.957000+00:00",
+        "guild_id": "1420134374283939882",
+        "name": "🔍・searcher",
+        "parent_id": "1454597853526753363",
+        "rate_limit_per_user": 120,
+        "topic": null,
+        "position": 22,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "2048",
+            "deny": "3941027631300608"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "32768"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723372443340911",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA LOGS ───╮",
+        "parent_id": null,
+        "position": 9,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1447723373672140862",
+        "type": 0,
+        "last_message_id": "1457144846790688931",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🛡️・guard-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 26,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723374884425860",
+        "type": 0,
+        "last_message_id": "1456853914812158004",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🔍・search-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 27,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723376146645052",
+        "type": 0,
+        "last_message_id": "1456953266595168299",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🚫・blacklist-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 28,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723378063573043",
+        "type": 0,
+        "last_message_id": "1457161015103062153",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🟢・status-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 29,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447723380458651698",
+        "type": 0,
+        "last_message_id": "1456036772722114781",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🔑・keys-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 30,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447949124379869194",
+        "type": 5,
+        "last_message_id": "1454613000949338183",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "❗・updates",
+        "parent_id": "1423344742313496636",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 10,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "1024",
+            "deny": "1126277864097856"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877908992"
+          },
+          {
+            "id": "1436411247271743498",
+            "type": 0,
+            "allow": "0",
+            "deny": "274877958208"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1447980626400510022",
+        "type": 0,
+        "last_message_id": "1457161782660694161",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "💬・chat",
+        "parent_id": "1423344748529188944",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 12,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "2048",
+            "deny": "3941044811120640"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1448743305604108339",
+        "type": 0,
+        "last_message_id": "1456872700340473866",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "💡・suggestions",
+        "parent_id": "1423344748529188944",
+        "rate_limit_per_user": 30,
+        "topic": null,
+        "position": 14,
+        "permission_overwrites": [],
+        "nsfw": false
+      },
+      {
+        "id": "1449518636824789142",
+        "type": 0,
+        "last_message_id": "1456821151589335101",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "⚡・database",
+        "parent_id": "1423344742313496636",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 11,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "103079217152"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1449845794310983744",
+        "type": 0,
+        "last_message_id": "1457093094678728856",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "⚡・parser",
+        "parent_id": "1454597853526753363",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 23,
+        "permission_overwrites": [
+          {
+            "id": "1423344737502367876",
+            "type": 0,
+            "allow": "2048",
+            "deny": "8444627258572800"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1449850178462027900",
+        "type": 0,
+        "last_message_id": "1456699720431833154",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "⚡・parse-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 31,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1450237332245712957",
+        "type": 0,
+        "last_message_id": "1454600927112724532",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🤖・bot-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 33,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1451002800623456467",
+        "type": 0,
+        "last_message_id": "1456201041447096330",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "🛒・shopier-log",
+        "parent_id": "1447723372443340911",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 32,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1451967691672911966",
+        "type": 0,
+        "last_message_id": "1452082251507433514",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "❓・status",
+        "parent_id": "1423344742313496636",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 9,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "2048"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1454596531004117126",
+        "type": 0,
+        "last_message_id": "1455647997185757195",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "📜・rules",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 4,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "2112"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1454597853526753363",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "╭─── VISTRA & SEARCHER ───╮",
+        "parent_id": null,
+        "position": 7,
+        "permission_overwrites": []
+      },
+      {
+        "id": "1454598676457586718",
+        "type": 0,
+        "last_message_id": "1455647945511665838",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "💸・iade-politikası",
+        "parent_id": "1423344751804944405",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 6,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "2112"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1456613555527749745",
+        "type": 0,
+        "last_message_id": "1456689674402791495",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "ticket-ysplexx",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 17,
+        "permission_overwrites": [
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          },
+          {
+            "id": "1305639191778164767",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1456613729016746210",
+        "type": 0,
+        "last_message_id": "1456689987251732592",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "ticket-wolfcs2",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 18,
+        "permission_overwrites": [
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          },
+          {
+            "id": "1342035401799372893",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1456648045327290531",
+        "type": 0,
+        "last_message_id": "1456708854921433199",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "ticket-mikoaaeg7438",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 19,
+        "permission_overwrites": [
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          },
+          {
+            "id": "895145126924550176",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1456739447478550670",
+        "type": 0,
+        "last_message_id": "1456739600063271045",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "ticket-vartolucom",
+        "parent_id": "1423344755160649779",
+        "rate_limit_per_user": 0,
+        "topic": null,
+        "position": 20,
+        "permission_overwrites": [
+          {
+            "id": "1270370688204673046",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1457072647006327051",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "purchase Ticket",
+        "parent_id": null,
+        "position": 4,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1457072776291549423",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "invite",
+        "parent_id": null,
+        "position": 5,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1457072859473117215",
+        "type": 4,
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "diger ticket",
+        "parent_id": null,
+        "position": 6,
+        "permission_overwrites": [
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ]
+      },
+      {
+        "id": "1457112103721631877",
+        "type": 0,
+        "last_message_id": "1457112612285321227",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "purchase-russianbankbusiness",
+        "parent_id": "1457072647006327051",
+        "rate_limit_per_user": 0,
+        "topic": "1441943719350763530",
+        "position": 34,
+        "permission_overwrites": [
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          },
+          {
+            "id": "1441943719350763530",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          }
+        ],
+        "nsfw": false
+      },
+      {
+        "id": "1457157473176780996",
+        "type": 0,
+        "last_message_id": "1457158096735567992",
+        "flags": 0,
+        "guild_id": "1420134374283939882",
+        "name": "support-numberone1ruhsuz",
+        "parent_id": "1457072859473117215",
+        "rate_limit_per_user": 0,
+        "topic": "1102201663999184970",
+        "position": 35,
+        "permission_overwrites": [
+          {
+            "id": "1425900560963604653",
+            "type": 0,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1102201663999184970",
+            "type": 1,
+            "allow": "68608",
+            "deny": "0"
+          },
+          {
+            "id": "1420134374283939882",
+            "type": 0,
+            "allow": "0",
+            "deny": "1024"
+          }
+        ],
+        "nsfw": false
+      }
+    ],
+    "roles": [
+      {
+        "id": "1420134374283939882",
+        "name": "@everyone",
+        "description": null,
+        "permissions": "532857369251393",
+        "position": 0,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344711061733504",
+        "name": "*",
+        "description": null,
+        "permissions": "8",
+        "position": 27,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344714597535909",
+        "name": "Finder",
+        "description": null,
+        "permissions": "268435464",
+        "position": 22,
+        "color": 7640178,
+        "colors": {
+          "primary_color": 7640178,
+          "secondary_color": 11788729,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344717696991242",
+        "name": "Helper",
+        "description": null,
+        "permissions": "8",
+        "position": 21,
+        "color": 10382335,
+        "colors": {
+          "primary_color": 10382335,
+          "secondary_color": 10469887,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344721136324649",
+        "name": "Administrator",
+        "description": null,
+        "permissions": "1032",
+        "position": 16,
+        "color": 11127295,
+        "colors": {
+          "primary_color": 11127295,
+          "secondary_color": 16759788,
+          "tertiary_color": 16761760
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": true,
+        "icon": "640c650b6018f473ab9042902692872c",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344724269600808",
+        "name": "BOT",
+        "description": null,
+        "permissions": "0",
+        "position": 19,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344727604068544",
+        "name": "Lifetime Platinum",
+        "description": null,
+        "permissions": "0",
+        "position": 13,
+        "color": 10192486,
+        "colors": {
+          "primary_color": 10192486,
+          "secondary_color": 16769460,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "ee4466e0bc42f11abfb26118bfd1ede8",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344730816643147",
+        "name": "Platinum",
+        "description": null,
+        "permissions": "0",
+        "position": 12,
+        "color": 5723990,
+        "colors": {
+          "primary_color": 5723990,
+          "secondary_color": 15066338,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "d88ff33b78fd583904ec28f27410b25b",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344734172221452",
+        "name": "Diamond",
+        "description": null,
+        "permissions": "0",
+        "position": 11,
+        "color": 7202800,
+        "colors": {
+          "primary_color": 7202800,
+          "secondary_color": 61695,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "b4cf1c829138ca0c1a48ba46c899a20b",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423344737502367876",
+        "name": "Default",
+        "description": null,
+        "permissions": "0",
+        "position": 8,
+        "color": 8886702,
+        "colors": {
+          "primary_color": 8886702,
+          "secondary_color": 15857663,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "38021b78f7b3622ea1881825e7a1b8ae",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1423345736396963943",
+        "name": "ErensiBOT",
+        "description": null,
+        "permissions": "2146823679",
+        "position": 18,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "689766089567109158"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423747801078042666",
+        "name": "Vistra Finder",
+        "description": null,
+        "permissions": "0",
+        "position": 24,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "1423742691388428319"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423749356028432448",
+        "name": "Vistra Helper",
+        "description": null,
+        "permissions": "8",
+        "position": 7,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "1423748346450939934"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423766657398083655",
+        "name": "Server Booster",
+        "description": null,
+        "permissions": "2248473465835073",
+        "position": 10,
+        "color": 16023551,
+        "colors": {
+          "primary_color": 16023551,
+          "secondary_color": 11816191,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": "8b1286fc02c6cf99ecf909e126d4e1c4",
+        "unicode_emoji": null,
+        "tags": {
+          "premium_subscriber": null
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423926858768191589",
+        "name": "Marpel",
+        "description": null,
+        "permissions": "8",
+        "position": 17,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "490039330388180992"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423927316740046928",
+        "name": "InviteLogger",
+        "description": null,
+        "permissions": "268462304",
+        "position": 6,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "499595256270946326"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1423927443739119699",
+        "name": "GiveawayBot",
+        "description": null,
+        "permissions": "8",
+        "position": 5,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "294882584201003009"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1425900560963604653",
+        "name": "Ticket Sorumlusu",
+        "description": null,
+        "permissions": "8",
+        "position": 14,
+        "color": 16777215,
+        "colors": {
+          "primary_color": 16777215,
+          "secondary_color": 6684825,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "91e97622a8511cbe63f1fe251a50ea8e",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1429115123762462886",
+        "name": "Vistra Verify",
+        "description": null,
+        "permissions": "8",
+        "position": 4,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "1429114771751305318"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1429118816079577128",
+        "name": "Vistra Verify",
+        "description": null,
+        "permissions": "0",
+        "position": 23,
+        "color": 10382335,
+        "colors": {
+          "primary_color": 10382335,
+          "secondary_color": 10469887,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1436411247271743498",
+        "name": "Susturulmuş",
+        "description": null,
+        "permissions": "0",
+        "position": 3,
+        "color": 8487814,
+        "colors": {
+          "primary_color": 8487814,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1436748204069617687",
+        "name": "Security",
+        "description": null,
+        "permissions": "8",
+        "position": 26,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "651095740390834176"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1438454615380070551",
+        "name": "Developer",
+        "description": null,
+        "permissions": "0",
+        "position": 15,
+        "color": 11156283,
+        "colors": {
+          "primary_color": 11156283,
+          "secondary_color": 16730184,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": "🔨",
+        "flags": 0
+      },
+      {
+        "id": "1447660495564832870",
+        "name": "twix perm",
+        "description": null,
+        "permissions": "8",
+        "position": 2,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1447943898071568425",
+        "name": ".gg/logsearch",
+        "description": null,
+        "permissions": "0",
+        "position": 9,
+        "color": 12822278,
+        "colors": {
+          "primary_color": 12822278,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": true,
+        "managed": false,
+        "mentionable": false,
+        "icon": "2c409c927ae1ad6550c2a2e0de067145",
+        "unicode_emoji": null,
+        "flags": 0
+      },
+      {
+        "id": "1449447802806599783",
+        "name": "Vistra Utils",
+        "description": null,
+        "permissions": "8",
+        "position": 1,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "1446804168252592330"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1453277723723042828",
+        "name": "Statbot",
+        "description": null,
+        "permissions": "275147508760",
+        "position": 20,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": true,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "tags": {
+          "bot_id": "491769129318088714"
+        },
+        "flags": 0
+      },
+      {
+        "id": "1454434858540732467",
+        "name": "yeni rol",
+        "description": null,
+        "permissions": "16",
+        "position": 25,
+        "color": 0,
+        "colors": {
+          "primary_color": 0,
+          "secondary_color": null,
+          "tertiary_color": null
+        },
+        "hoist": false,
+        "managed": false,
+        "mentionable": false,
+        "icon": null,
+        "unicode_emoji": null,
+        "flags": 0
+      }
+    ],
+    "emojis": [
+      {
+        "id": "1445482895849554061",
+        "name": "emoji_1",
+        "user": {
+          "id": "1209403602716594257",
+          "username": "zunaff",
+          "avatar": null,
+          "discriminator": "0",
+          "public_flags": 64,
+          "flags": 64,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "38t7aew78gt3tztzetze",
+          "avatar_decoration_data": {
+            "asset": "a_d65bc28befbf0923324d5e4b72339ea7",
+            "sku_id": "1336506386296864845",
+            "expires_at": null
+          },
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447642613703512094",
+        "name": "staff",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447947141434835046",
+        "name": "modernactivedev",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952055103656087",
+        "name": "modernbetabadge",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952130957774940",
+        "name": "neonredleave",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952168157188177",
+        "name": "modernmoderator",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952208623566969",
+        "name": "modernserverguide",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952245483110562",
+        "name": "modernrules",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952273992061142",
+        "name": "modernbughunter",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952300718030848",
+        "name": "neonredserverinsights",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952330354982923",
+        "name": "neonredlink",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952354279424193",
+        "name": "modernstaff",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952386067922984",
+        "name": "modernearlydev",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952409757483171",
+        "name": "neonredserverinsights",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952479965806694",
+        "name": "neonredjoin",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952536400036034",
+        "name": "neonredpadlock",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952602787610757",
+        "name": "neonredannouncement",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952633263558692",
+        "name": "modernverify",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952664838148209",
+        "name": "neonredstaff",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952697444663398",
+        "name": "modernraid",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952729250070730",
+        "name": "modernmodmail",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952891557052436",
+        "name": "neonredslashcommands",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952925451354214",
+        "name": "modernrefresh",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952952861003787",
+        "name": "bakiye",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447952991645728799",
+        "name": "tarih",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953017914658987",
+        "name": "dm",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953042275172453",
+        "name": "dm2",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953078937714850",
+        "name": "folder",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953115016986634",
+        "name": "loading",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": true,
+        "available": true
+      },
+      {
+        "id": "1447953148915482715",
+        "name": "neonid",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953195098968196",
+        "name": "neonmembers",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953219757150350",
+        "name": "neonred",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953253391142943",
+        "name": "neonsuccess",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953587048157226",
+        "name": "neonwarning",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953617125507072",
+        "name": "pause",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953641943076915",
+        "name": "play",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953669550247966",
+        "name": "purplenumber0",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953826073284732",
+        "name": "purplenumber5",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953964095115374",
+        "name": "redrocket",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447953991660081183",
+        "name": "redtime",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447954014628085893",
+        "name": "search",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447954037554024603",
+        "name": "statics",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447954059288903680",
+        "name": "stop",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447954081963315250",
+        "name": "tierfree",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447970964968050801",
+        "name": "tierspecial",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447970994252812341",
+        "name": "tiervip",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1447971019657580684",
+        "name": "txt",
+        "user": {
+          "id": "1438098114048294965",
+          "username": "murmurreiss",
+          "avatar": "ed9da9d53429dddcce77f3663711f5e3",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Murmur",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454263015624020099",
+        "name": "fingerprint",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602450014179358",
+        "name": "vistra_loading",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602451457146942",
+        "name": "vistra_lock",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602453843705947",
+        "name": "vistra_platinum",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602456020422727",
+        "name": "vistra_rocket",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602457945608405",
+        "name": "vistra_search",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602459371540561",
+        "name": "vistra_statics",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602461351514193",
+        "name": "vistra_success",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602462806937863",
+        "name": "vistra_user",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602465067536456",
+        "name": "vistra_warning",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602467730919424",
+        "name": "vistra_wrench",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602469580603573",
+        "name": "vistra_blacklist",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602471594000434",
+        "name": "vistra_clock",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602475800891655",
+        "name": "vistra_date",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602478573191361",
+        "name": "vistra_diamond",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602486848553051",
+        "name": "vistra_file",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602489524388035",
+        "name": "vistra_fingerprint",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602490979811572",
+        "name": "vistra_folder",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602493060452443",
+        "name": "vistra_gift",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602497388707982",
+        "name": "vistra_invite",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602589302816861",
+        "name": "vistra_close",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      },
+      {
+        "id": "1454602591123279953",
+        "name": "vistra_gold",
+        "user": {
+          "id": "1446287676796960961",
+          "username": "kynarix.",
+          "avatar": "46efd47cab29b6f8ddfa27879f87f0b7",
+          "discriminator": "0",
+          "public_flags": 0,
+          "flags": 0,
+          "banner": null,
+          "accent_color": null,
+          "global_name": "Cryp₺eX",
+          "avatar_decoration_data": null,
+          "collectibles": null,
+          "display_name_styles": null,
+          "banner_color": null,
+          "clan": null,
+          "primary_guild": null
+        },
+        "roles": [],
+        "require_colons": true,
+        "managed": false,
+        "animated": false,
+        "available": true
+      }
+    ]
+  }
+}

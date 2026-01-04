@@ -135,6 +135,31 @@ export async function POST(req: NextRequest) {
 
                     const categoryMap = new Map<string, string>(); // OldID -> NewID
 
+                    // Helper for resolving permissions
+                    const resolvePermissionOverwrites = (overwrites: any[]) => {
+                        if (!overwrites || !Array.isArray(overwrites)) return [];
+                        return overwrites.map(ow => {
+                            let newId = ow.id;
+                            if (ow.type === 0) { // Role
+                                if (ow.id === sourceId) {
+                                    newId = targetId; // @everyone role ID = Guild ID
+                                } else if (roleMap.has(ow.id)) {
+                                    newId = roleMap.get(ow.id);
+                                } else {
+                                    return null; // Role not cloned/mapped, skip
+                                }
+                            }
+                            // Type 1 (Member) -> Keep ID (User ID is global)
+                            
+                            return {
+                                id: newId,
+                                type: ow.type,
+                                allow: ow.allow,
+                                deny: ow.deny
+                            };
+                        }).filter(Boolean);
+                    };
+
                     // Create Categories
                     for (const cat of categories) {
                         try {
@@ -142,7 +167,7 @@ export async function POST(req: NextRequest) {
                                 name: cat.name,
                                 type: 4, // GUILD_CATEGORY
                                 position: cat.position,
-                                // Permission rewrites can be complex, skipping for now or use roleMap if implemented
+                                permission_overwrites: resolvePermissionOverwrites(cat.permission_overwrites)
                             });
                             categoryMap.set(cat.id, newCat.id);
                         } catch (e: any) {
@@ -164,13 +189,14 @@ export async function POST(req: NextRequest) {
                                 nsfw: channel.nsfw,
                                 bitrate: channel.bitrate,
                                 user_limit: channel.user_limit,
+                                permission_overwrites: resolvePermissionOverwrites(channel.permission_overwrites)
                             });
                         } catch (e: any) {
                             sendLog(`Kanal hatası (${channel.name}): ${e.message}`, 'error');
                         }
                         await new Promise(r => setTimeout(r, 100));
                     }
-                    sendLog('Kanallar tamamlandı.', 'success');
+                    sendLog('Kanallar ve izinler tamamlandı.', 'success');
                 }
 
                 // 5. Clone Emojis
